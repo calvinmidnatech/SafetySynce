@@ -1,0 +1,11 @@
+[
+  {"name":"Alice","date":"2025-06-01","clockIn":"08:00","clockOut":"16:00"},
+  {"name":"Alice","date":"2025-06-02","clockIn":"08:15","clockOut":"16:30"},
+  {"name":"Alice","date":"2025-06-03","clockIn":"08:00","clockOut":"15:45"},
+  {"name":"Bob","date":"2025-06-01","clockIn":"07:45","clockOut":"16:15"},
+  {"name":"Bob","date":"2025-06-02","clockIn":"08:00","clockOut":"17:00"},
+  {"name":"Bob","date":"2025-06-03","clockIn":"08:30","clockOut":"16:30"},
+  {"name":"Charlie","date":"2025-06-01","clockIn":"09:00","clockOut":"17:30"},
+  {"name":"Charlie","date":"2025-06-02","clockIn":"09:15","clockOut":"17:45"},
+  {"name":"Charlie","date":"2025-06-03","clockIn":"09:00","clockOut":"17:00"}
+]

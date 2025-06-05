@@ -6,3 +6,26 @@ body {
 .hidden {
     display: none;
 }
+
+.chart-container {
+    width: 100%;
+    max-width: 800px;
+    height: 400px;
+    margin-bottom: 2rem;
+}
+
+#data-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#data-table th,
+#data-table td {
+    border: 1px solid #ccc;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+#data-table th {
+    background: #f0f0f0;
+}
