@@ -12,9 +12,22 @@
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
-    <h1>SafetySync Data Viewer</h1>
-    <canvas id="chart" width="600" height="400"></canvas>
-    <pre id="json-output" class="hidden"></pre>
+    <h1>Driver Hours Dashboard</h1>
+    <div class="chart-container">
+        <canvas id="chart"></canvas>
+    </div>
+    <table id="data-table">
+        <thead>
+            <tr>
+                <th>Driver</th>
+                <th>Date</th>
+                <th>Clock In</th>
+                <th>Clock Out</th>
+                <th>Hours</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
     <script src="main.js"></script>
 </body>
 </html>
